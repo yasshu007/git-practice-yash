@@ -1,2 +1,2 @@
 # git-practice-yash
-This repository is for practicing python related AI learning.
+This repository is for learning python related AI course.
